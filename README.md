@@ -37,6 +37,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanberkzulfikar&" alt="sanberkzulfikar" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanberkzulfikar&label=Profile%20views&color=0e75b6&style=flat" alt="sanberkzulfikar" /> </p>
-
 <p align="left"> <a href="https://twitter.com/sanberkzulfikar" target="blank"><img src="https://img.shields.io/twitter/follow/sanberkzulfikar?logo=twitter&style=for-the-badge" alt="sanberkzulfikar" /></a> </p>
