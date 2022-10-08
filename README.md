@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanberkzulfikar&label=Profile%20views&color=0e75b6&style=flat" alt="sanberkzulfikar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanberkzulfikar" alt="sanberkzulfikar" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/sanberkzulfikar" target="blank"><img src="https://img.shields.io/twitter/follow/sanberkzulfikar?logo=twitter&style=for-the-badge" alt="sanberkzulfikar" /></a> </p>
 
 - 🔭 I’m currently working on **sharpening my programming skills.**
