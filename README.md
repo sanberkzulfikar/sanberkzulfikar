@@ -27,7 +27,7 @@
 </p>
 
 <br>
-<img src="https://www.codewars.com/users/sanberk/badges/large?theme=light" alt="codewars">
+<img src="https://www.codewars.com/users/sanberk/badges/small?theme=light" alt="codewars">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
