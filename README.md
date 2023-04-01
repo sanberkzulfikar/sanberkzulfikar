@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **sharpening my programming skills.**
 
-- 🌱 I’m currently learning **Nodejs, MongoDB, React**
+- 🌱 I’m currently learning **Vue.js**
 
 - 👨‍💻 All of my projects are available at [sanberkzulfikar.com
 ](sanberkzulfikar.com)
