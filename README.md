@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **sharpening my programming skills.**
 
-- 🌱 I’m currently learning **Vue.js**
+- 🌱 I’m currently learning **Next.js**
 
 - 👨‍💻 All of my projects are available at [sanberkzulfikar.com
 ](sanberkzulfikar.com)
