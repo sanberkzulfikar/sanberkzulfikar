@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sanberk Zulfikar</h1>
-<h3 align="center">Computer Engineer, Full-Stack Web Developer, Musician</h3>
+<h3 align="center">Computer Engineer, Full-Stack Web Developer</h3>
 
 
 - 👨‍💻 All of my projects are available at [sanberkzulfikar.com
 ](sanberkzulfikar.com)
 
-- 📫 How to reach me **tosanberk@icloud.com**
+- 📫 Mail address: **tosanberk[at]icloud.com**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
