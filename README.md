@@ -5,7 +5,7 @@
 - 👨‍💻 All of my projects are available at [sanberkzulfikar.com
 ](sanberkzulfikar.com)
 
-- 📫 Mail address: **tosanberk[at]icloud.com**
+- 📫 Mail address: **tosanberk [at] icloud.com**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
