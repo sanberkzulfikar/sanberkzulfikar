@@ -2,10 +2,6 @@
 <h3 align="center">Computer Engineer, Full-Stack Web Developer, Musician</h3>
 
 
-- 🔭 I’m currently working on **sharpening my programming skills.**
-
-- 🌱 I’m currently learning **Next.js**
-
 - 👨‍💻 All of my projects are available at [sanberkzulfikar.com
 ](sanberkzulfikar.com)
 
