@@ -2,8 +2,7 @@
 <h3 align="center">Computer Engineer, Full-Stack Web Developer</h3>
 
 
-- 👨‍💻 All of my projects are available at [sanberkzulfikar.com
-]
+- 👨‍💻 All of my projects are available at <a href="https://sanberkzulfikar.com" target="_blank" rel="noreferrer>sanberkzulfikar.com</a>
 
 - 📫 Mail address: **tosanberk [at] icloud.com**
 
