@@ -3,7 +3,7 @@
 
 
 - 👨‍💻 All of my projects are available at [sanberkzulfikar.com
-](sanberkzulfikar.com)
+]
 
 - 📫 Mail address: **tosanberk [at] icloud.com**
 
