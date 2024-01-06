@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sanberk Zulfikar</h1>
-<h3 align="center">Computer Engineer, Full-Stack Web Developer</h3>
+<h3 align="center">Computer Engineer, Full-Stack Software Engineer</h3>
 
 
 - 👨‍💻 All of my projects are available at <a href="https://sanberkzulfikar.com" target="_blank" rel="noreferrer">sanberkzulfikar.com</a>
