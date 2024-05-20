@@ -16,8 +16,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanberkzulfikar&show_icons=true&locale=en&layout=compact" alt="sanberkzulfikar" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanberkzulfikar&show_icons=true&locale=en" alt="sanberkzulfikar" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanberkzulfikar&" alt="sanberkzulfikar" /></p>
 
 <img src="https://www.codewars.com/users/sanberk/badges/small?theme=light" alt="codewars">
