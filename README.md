@@ -1,8 +1,6 @@
 <h1 align="center">Sanberk Zulfikar</h1>
 <h3 align="center">Computer Engineer BSc., Full-Stack Software Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanberkzulfikar&label=Profile%20views&color=0e75b6&style=flat" alt="sanberkzulfikar" /> </p>
-
 - 👨‍💻 My projects and resume is available at [sanberkzulfikar.com](sanberkzulfikar.com)
 
 - 📫 How to reach me **tosanberk [at] icloud.com**
@@ -21,3 +19,5 @@
 
 
 <img src="https://www.codewars.com/users/sanberk/badges/small?theme=light" alt="codewars">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanberkzulfikar&label=Profile%20views&color=0e75b6&style=flat" alt="sanberkzulfikar" /> </p>
