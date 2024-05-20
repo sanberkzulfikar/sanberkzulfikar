@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Sanberk</h1>
+<h1 align="center">Sanberk Zulfikar</h1>
 <h3 align="center">Computer Engineer BSc., Full-Stack Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanberkzulfikar&label=Profile%20views&color=0e75b6&style=flat" alt="sanberkzulfikar" /> </p>
