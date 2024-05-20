@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanberkzulfikar&label=Profile%20views&color=0e75b6&style=flat" alt="sanberkzulfikar" /> </p>
 
-- 👨‍💻 All of my projects are available at [sanberkzulfikar.com](sanberkzulfikar.com)
+- 👨‍💻 My projects and resume is available at [sanberkzulfikar.com](sanberkzulfikar.com)
 
 - 📫 How to reach me **tosanberk [at] icloud.com**
 
