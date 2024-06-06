@@ -1,7 +1,7 @@
 <h1 align="center">Sanberk Zulfikar</h1>
 <h3 align="center">Computer Engineer BSc., Full-Stack Software Engineer</h3>
 
-- 👨‍💻 My projects and resume available at [https://sanberkzulfikar.com](sanberkzulfikar.com)
+- 👨‍💻 My projects and resume available at [sanberkzulfikar.com](https://sanberkzulfikar.com)
 
 - 📫 email: **tosanberk [at] icloud.com**
 
