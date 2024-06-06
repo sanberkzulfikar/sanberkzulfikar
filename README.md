@@ -3,7 +3,7 @@
 
 - 👨‍💻 My projects and resume available at [sanberkzulfikar.com](sanberkzulfikar.com)
 
-- 📫 How to reach me **tosanberk [at] icloud.com**
+- 📫 email: **tosanberk [at] icloud.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
