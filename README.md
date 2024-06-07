@@ -19,5 +19,3 @@
 
 
 <img src="https://www.codewars.com/users/sanberk/badges/small?theme=light" alt="codewars">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanberkzulfikar&label=Profile%20views&color=0e75b6&style=flat" alt="sanberkzulfikar" /> </p>
